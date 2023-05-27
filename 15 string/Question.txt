@@ -1,0 +1,14 @@
+1. Write a python script to create a String in 3 different possible ways
+2. Write a python script to Get the characters from the start to position 5 (Given String
+“iNeuron” using the slice syntax)
+3. Write a python script to Get the characters from position 2 to position 5 (Given String
+“Hello Learners” using the slice syntax)
+4. Write a python script to demonstrate String Concatenation adding space in between (
+Given Strings a=”Learning” b=”Python” )
+5. Write a python script to get the count of total number of characters in String a=
+“iNeuron”
+6. Write a python script to reverse a String. (“iNeuron”)
+7. Write a python script to determine whether a string contains a specific substring.
+8. Write a python script to check if a string contains only numbers.
+9. Write a python script to check if a string contains only characters of the alphabet.
+10. Write a python script to convert an integer to a string.

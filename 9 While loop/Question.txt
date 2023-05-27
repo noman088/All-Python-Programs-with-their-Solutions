@@ -1,0 +1,10 @@
+1. Write a python script to print MySirG N times on the screen
+2. Write a python script to print first N natural numbers
+3. Write a python script to print first N natural numbers in reverse order
+4. Write a python script to print first N odd natural numbers
+5. Write a python script to print first N odd natural numbers in reverse order
+6. Write a python script to print first N even natural numbers
+7. Write a python script to print first N even natural numbers in reverse order
+8. Write a python script to print squares of first N natural numbers
+9. Write a python script to print cubes of first N natural numbers
+10. Write a python script to print first 10 multiples of N
